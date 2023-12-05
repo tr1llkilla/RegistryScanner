@@ -4,6 +4,6 @@ each search term will be listed in the terminal. (Open Regeditor as an Administr
 for exact file names containing said search terms and choose whether or not to delete them. Once the desired files are deleted, run the scan again to make sure. The program 
 can be modified to search for any amount of singleterm keywords within the users system. The program won't search for files outside of the registry. 
 
-DELETE ANY RANDOM CHINESE CHARACTERS ASSOCIATED WITH ANY FOLDERS IN YOUR REGISTRY
+DELETE ANY FILES CONTAINING ANY RANDOM CHINESE CHARACTERS ASSOCIATED WITH ANY FOLDERS IN YOUR REGISTRY
 
 The program is really good for registry forensic and data analysis purposes. It allows for more functionality and precision for the search (Ctrl+f) function within Regeditor. 
