@@ -1,0 +1,7 @@
+This program is only meant to provide a thorough registry search. It is not intended to delete any files from a system. Files from a user's system
+registry should be carefully analyzed in order to properly remove only the desired program/s ie.. Riot Client. Upon running the program, files containing 
+each search term will be listed in the terminal. (Open Regeditor as an Administrator) The user can than manually search (Click 'Computer' then press 'Ctrl+f') their registry
+for exact file names containing said search terms and choose whether or not to delete them. The program can be modified to search for any amount of singleterm 
+keywords within the users system. The program won't search for files outside of the registry. 
+
+The program is really good for registry forensic and data analysis purposes. It allows for more functionality and precision for the search (Ctrl+f) function within Regeditor. 
